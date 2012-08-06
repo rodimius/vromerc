@@ -1,0 +1,4 @@
+vromerc
+=======
+
+Settings for vrome.
