@@ -1,4 +1,5 @@
 set searchengines+={"wp":"http://en.wikipedia.org/wiki/{{keyword}}"}
+set searchengines+={"yt":"http://www.youtube.com/results?search_query={{keyword}}"}
 map J gT
 map K gt
 map d D
