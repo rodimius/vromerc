@@ -1,0 +1,6 @@
+set searchengines+={"wp":"http://en.wikipedia.org/wiki/{{keyword}}"}
+map J gT
+map K gt
+map d D
+set hintkeys=asdfjklei
+
