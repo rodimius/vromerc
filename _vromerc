@@ -1,7 +1,8 @@
-set searchengines+={"wp":"http://en.wikipedia.org/wiki/{{keyword}}"}
-set searchengines+={"yt":"http://www.youtube.com/results?search_query={{keyword}}"}
+set searchengines+={
+"wp":"http://en.wikipedia.org/wiki/{{keyword}}",
+"yt":"http://www.youtube.com/results?search_query={{keyword}}"}
 map J gT
 map K gt
 map d D
-set hintkeys=asdfjklei
+set hintkeys=asdfjklgh
 
