@@ -1,4 +1,4 @@
-set searchengines+={"wp":"http://en.wikipedia.org/w/index.php?search={{keyword}}&title=Special%3ASearch{{keyword}}","yt":"http://www.youtube.com/results?search_query={{keyword}}","shop":"https://www.google.co.uk/search?hl=en&tbm=shop&q={{keyword}}"}
+set searchengines+={"wp":"http://en.wikipedia.org/w/index.php?search={{keyword}}&title=Special%3ASearch","yt":"http://www.youtube.com/results?search_query={{keyword}}","shop":"https://www.google.co.uk/search?hl=en&tbm=shop&q={{keyword}}"}
 map J gT
 map K gt
 map d D
